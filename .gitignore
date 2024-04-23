@@ -1,0 +1,50 @@
+# Django related
+*.pyc
+__pycache__/
+*.sqlite3
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+# Dependency directories (Virtual Environments)
+./env/
+./venv/
+./googleAuth/venv/
+venv/
+env/
+env27/
+env36/
+env37/
+env38/
+env39/
+pyenv/
+./googleAuth/venv
+# Ignore database configuration
+db.sqlite3
+*.db
+
+# Ignore static and media files (if not using a CDN)
+/static/
+/media/
+
+# Node.js and npm (React)
+node_modules/
+./node_modules/
+./web/node_modules
+npm-debug.log
+yarn-error.log
+
+# Compiled files (React)
+/build/
+/dist/
+
+# Environment variables (React and Django)
+.env
+./env/
+# IDE specific files (optional)
+.vscode/
+.idea/
+
+# OS generated files (e.g., macOS .DS_Store)
+.DS_Store
