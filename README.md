@@ -1,4 +1,4 @@
-# googla_auth
+# googla_auth_django_react
 Google-Auth react + Python Django
 
 # Custom Google Authentication System Tutorial Code
